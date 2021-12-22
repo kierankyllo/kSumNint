@@ -6,7 +6,7 @@ k-sum n-integer solution problem below:
 
 “Given an equation x1 +x2 +· · ·+xn = k, where k is a constant, and x1, x2, . . . , xn are nonnegative 
 integers (which are considered as variables in the equation), list all the solutions. Write a C++ 
-pro gram to solve this problem. The input is a pair of integers (n, k) with k ≥ n ≥ 2. The output is 
+program to solve this problem. The input is a pair of integers (n, k) with k ≥ n ≥ 2. The output is 
 a list of all the solutions.”
 
 Inputs:
