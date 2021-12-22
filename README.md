@@ -19,3 +19,6 @@ Outputs:
 
 The program produces graphical terminal output as well as txt file output with the given name 
 containing the solutions.
+
+Code:
+https://github.com/kierankyllo/kSumNint/blob/main/kSumNint.cpp
